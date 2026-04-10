@@ -1,5 +1,7 @@
 # 🤖 aicoder: AI-Native Multi-Agent Development Framework
 
+> [简体中文] | [繁體中文](README_TW.md) | [English](README_EN.md) | [日本語](README_JP.md) | [한국어](README_KR.md)
+
 > **本项目经作者 Sting 授权发布**
 
 `aicoder` 是一套专为 **Claude Code**、**Cursor**、**Windsurf** 等现代 AI 编程工具设计的协同开发技能包（Skills）。它通过模拟专业软件团队的分工，将复杂的开发流程转化为可预测、高质量的“关卡式”迭代，帮助开发者（尤其是新手）从零开始构建具备工程水准的项目。
