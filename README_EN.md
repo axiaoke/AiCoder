@@ -1,6 +1,6 @@
 # 🤖 aicoder: AI-Native Multi-Agent Development Framework
 
-> [English] | [简体中文](README.md) | [繁體中文](README_TW.md) | [日本語](README_JP.md) | [한국어](README_KR.md)
+> [English] | [简体中文](README.md) | [繁體中文](README_ZH.md) | [日本語](README_JP.md) | [한국어](README_KR.md)
 
 > **Authorized for release by the creator: Sting**
 
@@ -65,7 +65,7 @@ aicoder/
 
 ## 📄 Copyright and Acknowledgments
 
-The entire set of processes, documentation standards, and role positioning in this project was developed by software engineer **Sting** through extensive practice. It is now released publicly under the author's authorization. Developers are welcome to learn, cite, and jointly improve development standards in the AI era.
+The entire set of processes, documentation standards, and role positioning in this project was developed by the author **Sting** through extensive practice. It is now released publicly under the author's authorization. Developers are welcome to learn, cite, and jointly improve development standards in the AI era.
 
 ---
 

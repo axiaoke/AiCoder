@@ -1,6 +1,6 @@
 # 🤖 aicoder: AI-Native Multi-Agent Development Framework
 
-> [简体中文] | [繁體中文](README_TW.md) | [English](README_EN.md) | [日本語](README_JP.md) | [한국어](README_KR.md)
+> [简体中文] | [繁體中文](README_ZH.md) | [English](README_EN.md) | [日本語](README_JP.md) | [한국어](README_KR.md)
 
 > **本项目经作者 Sting 授权发布**
 
@@ -65,7 +65,7 @@ aicoder/
 
 ## 📄 版权与致谢
 
-本项目的整套流程、文档规范与角色定位均由程序员 **Sting** 经过大量实践沉淀而成。现由作者授权公开发布，欢迎各位开发者学习、引用并共同完善 AI 时代的开发标准。
+本项目的整套流程、文档规范与角色定位均由作者 **Sting** 经过大量实践沉淀而成。现由作者授权公开发布，欢迎各位开发者学习、引用并共同完善 AI 时代的开发标准。
 
 ---
 
