@@ -1,3 +1,5 @@
+
+
 # 🤖 aicoder: AI-Native Multi-Agent Development Framework
 
 > [简体中文] | [繁體中文](README_ZH.md) | [English](README_EN.md) | [日本語](README_JP.md) | [한국어](README_KR.md)
@@ -40,7 +42,7 @@
 
 1. **工作区初始化**:
    - 在 AI 编程工具中加载本项目。
-   - 说：“初始化新项目 [项目名]”。
+   - 说：“初始化新项目 [项目名]”（项目名需为英文或拼音，如 `mail-ai`，用于自动创建文件夹）。
    - 流程守护者将自动为你搭建标准的 `product/`, `tech/`, `developer/` 目录结构。
 
 2. **角色注入**:
